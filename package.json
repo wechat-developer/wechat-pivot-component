@@ -1,6 +1,6 @@
 {
   "name": "wechatpivot",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "keywords": [
     "wechat",
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "echo start"
   },
-  "repository": "https://github.com:wechat-developer/wechat-pivot-component",
+  "repository": "https://github.com:wechatpivot/wechatpivot-component",
   "author": "hbrls<shuaizhexu@gmail.com>",
   "license": "MIT"
 }
